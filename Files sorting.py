@@ -2,7 +2,7 @@ import os
 import shutil
 
 
-path ="C:/Users/YGFrost123/Downloads/"
+path ="Put your path here"
 names = os.listdir(path)
 folder_name = ['image' , 'text' , 'gif' , 'rar' , 'zip' , 'exe' , 'mp4' , 'mov']
 for x in range(0,7):
